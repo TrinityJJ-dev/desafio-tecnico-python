@@ -22,3 +22,18 @@ Este repositório contém a solução para o desafio técnico comercial, desenvo
 1. **Desafio 1 - Cálculo de Comissão:**
    ```bash
    python desafio1_comissao.py
+   
+   Desafio 2 - Movimentação de Estoque:
+
+Bash
+python desafio2_estoque.py
+Desafio 3 - Cálculo de Juros:
+
+Bash
+python desafio3_juros.py
+🛠️ Tecnologias Utilizadas
+Python 3
+
+JSON (Manipulação de dados)
+
+Git / GitHub (Controle de versão)
