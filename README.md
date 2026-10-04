@@ -20,20 +20,17 @@ Este repositório contém a solução para o desafio técnico comercial, desenvo
 ### Passo a Passo
 
 1. **Desafio 1 - Cálculo de Comissão:**
-   ```bash
-   python desafio1_comissao.py
-   
-   Desafio 2 - Movimentação de Estoque:
+   Execute no terminal: `python desafio1_comissao.py`
 
-Bash
-python desafio2_estoque.py
-Desafio 3 - Cálculo de Juros:
+2. **Desafio 2 - Movimentação de Estoque:**
+   Execute no terminal: `python desafio2_estoque.py`
 
-Bash
-python desafio3_juros.py
-🛠️ Tecnologias Utilizadas
-Python 3
+3. **Desafio 3 - Cálculo de Juros:**
+   Execute no terminal: `python desafio3_juros.py`
 
-JSON (Manipulação de dados)
+---
 
-Git / GitHub (Controle de versão)
+## 🛠️ Tecnologias Utilizadas
+- **Python 3**
+- **JSON** (Manipulação de dados)
+- **Git / GitHub** (Controle de versão)
